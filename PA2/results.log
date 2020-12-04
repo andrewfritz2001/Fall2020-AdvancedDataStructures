@@ -1,0 +1,10 @@
+List: 
+N = 632, M = 600
+Total Runtime: 0.008252s
+Average Elimination Time: 2.61968e-05s
+
+Vector: 
+N = 1012, M = 980
+Total Runtime: 0.024358s
+Average Elimination Time: 4.82337e-05s
+
