@@ -40,9 +40,6 @@ public:
 	int getHeight(){ return this->height; }
 	AVLNode<T>* getLeft(){ return this->left; }
 	AVLNode<T>* getRight(){ return this->right; }
-
-	// If I could redo this PA I would friend the other class or use inheritance
-	// These setters and getters are not the move
 };
 
 #endif
